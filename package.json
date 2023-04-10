@@ -3,7 +3,7 @@
   "version": "0.0.10",
   "description": "plugin for production project",
   "publishConfig": {
-
+    "registry": "https://github.com/Simsonch/eslint-test"
   },
   "keywords": [
     "eslint",
